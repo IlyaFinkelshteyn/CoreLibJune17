@@ -1,6 +1,0 @@
-c:\users\appveyor\documents\visual studio 2017\Projects\CoreLibJune17\CoreLibJune17\bin\Debug\netcoreapp1.1\CoreLibJune17.deps.json
-c:\users\appveyor\documents\visual studio 2017\Projects\CoreLibJune17\CoreLibJune17\bin\Debug\netcoreapp1.1\CoreLibJune17.dll
-c:\users\appveyor\documents\visual studio 2017\Projects\CoreLibJune17\CoreLibJune17\bin\Debug\netcoreapp1.1\CoreLibJune17.pdb
-c:\users\appveyor\documents\visual studio 2017\Projects\CoreLibJune17\CoreLibJune17\obj\Debug\netcoreapp1.1\CoreLibJune17.AssemblyInfo.cs
-c:\users\appveyor\documents\visual studio 2017\Projects\CoreLibJune17\CoreLibJune17\obj\Debug\netcoreapp1.1\CoreLibJune17.dll
-c:\users\appveyor\documents\visual studio 2017\Projects\CoreLibJune17\CoreLibJune17\obj\Debug\netcoreapp1.1\CoreLibJune17.pdb
