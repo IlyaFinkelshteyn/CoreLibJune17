@@ -12,6 +12,6 @@ before_build:
 build:
   verbosity: minimal
 after_build:
-- msbuild %appveyor_build_folder%\CoreLibJune17\CoreLibJune17.csproj /t:pack /p:Configuration=%CONFIGURATION%;
+- msbuild %appveyor_build_folder%\CoreLibJune17\CoreLibJune17.csproj /t:pack /p:Configuration=%CONFIGURATION%
 artifacts:
 - path: '**\*.nupkg'
