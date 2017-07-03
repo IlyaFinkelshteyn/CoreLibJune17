@@ -3,19 +3,9 @@
   <PropertyGroup>
     <TargetFramework>netcoreapp1.1</TargetFramework>    
     <Version>1.0.1</Version>
-  </PropertyGroup>
-   
-  <PropertyGroup>    
-    <PackageId>AppLogger.YOUR_NAME</PackageId>
     <PackageVersion>1.0.0</PackageVersion>
-    <Authors>YOUR_NAME</Authors>
-    <Description>Awesome application logging utility</Description>
-    <PackageRequireLicenseAcceptance>false</PackageRequireLicenseAcceptance>
-    <PackageReleaseNotes>First release</PackageReleaseNotes>
-    <Copyright>Copyright 2017 (c) Contoso Corporation. All rights reserved.</Copyright>
-    <PackageTags>logger logging logs</PackageTags>
- </PropertyGroup>
-   
+  </PropertyGroup>
+     
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|AnyCPU'">
     <TreatWarningsAsErrors>True</TreatWarningsAsErrors>
     <TreatSpecificWarningsAsErrors />
